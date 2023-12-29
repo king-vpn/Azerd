@@ -6,7 +6,7 @@ echo -e ""
 echo -e "\033[96;1m============================\033[0m"
 echo -e "\033[93;1m      INPUT SUNDOMAIN\033[0m"
 echo -e "\033[96;1m============================\033[0m"
-echo -e "\033[91;1m Note. contoh Subdomain :\033[0m \033[93mbodoh22 \033[0m"
+echo -e "\033[91;1m Note. contoh Subdomain :\033[0m \033[93mvip \033[0m"
 echo -e " "
 read -p "SUBDOMAIN :  " domen
 echo -e ""
