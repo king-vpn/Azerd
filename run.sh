@@ -36,7 +36,7 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[46m                  King Vpn           \033[0m"
+echo -e "\033[46m                  KINGVPN77           \033[0m"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 3
